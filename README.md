@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm passionate about cybersecurity and constantly expandin
 
 My journey in information technology has led me to develop a strong passion for cybersecurity, and I am now focused on transitioning into the field. With a BTEC Level 3 National Foundation Diploma in IT, the Google Cybersecurity Certification, and hands-on training from a Cybersecurity Bootcamp, I have been building practical experience in network security, ethical hacking, and threat analysis.
 
-I’ve worked on projects involving Wireshark for network traffic analysis, penetration testing using Metasploit, and security monitoring techniques. My goal is to apply these skills in a Security Operations Center (SOC) as a Tier 1 Analyst, where I can actively contribute to detecting and mitigating cyber threats.
+I’ve worked on projects involving Wireshark for network traffic analysis, penetration testing using Metasploit, and security monitoring techniques. My goal is to apply these skills in towards a CyberSecurity Analyst, where I can actively contribute to detecting and mitigating cyber threats.
 
 Always eager to learn and improve, I’m continuously exploring new security tools, participating in CTF challenges, and expanding my expertise in cybersecurity. 🚀
 
