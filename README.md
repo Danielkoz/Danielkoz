@@ -4,7 +4,6 @@
 Welcome to my GitHub! I'm passionate about cybersecurity and constantly expanding my skills in ethical hacking, network security, and digital forensics.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in information technology has led me to develop a strong passion for cybersecurity, and I am now focused on transitioning into the field. With a BTEC Level 3 National Foundation Diploma in IT, the Google Cybersecurity Certification, and hands-on training from a Cybersecurity Bootcamp, I have been building practical experience in network security, ethical hacking, and threat analysis.
 
@@ -13,7 +12,6 @@ I’ve worked on projects involving Wireshark for network traffic analysis, pene
 Always eager to learn and improve, I’m continuously exploring new security tools, participating in CTF challenges, and expanding my expertise in cybersecurity. 🚀
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         |          
 |-----------------------------------------------|
@@ -23,7 +21,6 @@ Always eager to learn and improve, I’m continuously exploring new security too
 | Incident Response Planning and Execution      | 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -46,7 +43,6 @@ Always eager to learn and improve, I’m continuously exploring new security too
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvocal.media%2Feducation%2F10-google-certification-tips-to-help-you-pass&psig=AOvVaw0TffzAlQ0_lhbTpSRCVtQq&ust=1741818212947000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCJiNj9OIg4wDFQAAAAAdAAAAABAE&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
