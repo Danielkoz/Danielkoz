@@ -1,7 +1,7 @@
 # Hello, I'm Daniel K
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Welcome to my GitHub! I'm passionate about cybersecurity and constantly expanding my skills in ethical hacking, network security, and digital forensics.
+Welcome to my GitHub! I'm passionate about cybersecurity and constantly expanding my skills in ethical hacking and network security!
 
 ## Objective
 
@@ -10,8 +10,6 @@ My journey in information technology has led me to develop a strong passion for 
 I’ve worked on projects involving Wireshark for network traffic analysis, penetration testing using Metasploit, and security monitoring techniques. My goal is to apply these skills in towards a CyberSecurity Analyst, where I can actively contribute to detecting and mitigating cyber threats.
 
 Always eager to learn and improve, I’m continuously exploring new security tools, participating in CTF challenges, and expanding my expertise in cybersecurity. 🚀
-
-## Skills
 
 | Skill                                         |          
 |-----------------------------------------------|
